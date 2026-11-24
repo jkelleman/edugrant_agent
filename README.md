@@ -1,7 +1,15 @@
+<p align="center"><img src="assets/banner.png" alt="Micro-grants within reach: five planned workflows from grant discovery to post-award communication."></p>
+
 # edugrant_agent
 
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![Semantic Kernel](https://img.shields.io/badge/Semantic%20Kernel-Python-5C2D91.svg)](#edugrant_agent)
+[![Status: concept](https://img.shields.io/badge/status-concept-2e8a3a.svg)](#edugrant_agent)
 
-EduGrant Agent – Semantic Kernel Starter 
+
+EduGrant Agent – Semantic Kernel Starter
+
+> **Status:** concept. This repo holds the design and planned structure; the starter code isn't checked in yet. 
 
 This repository contains the starter code for the EduGrant Agent, an AI-powered grant discovery and writing assistant built using Semantic Kernel in Python. 
 
@@ -49,7 +57,7 @@ edugrant_agent/
 
 Clone the repository  
 
-git clone https://github.com/jenkellemanmicrosoft/edugrantagent.git 
+git clone https://github.com/jkelleman/edugrant_agent.git 
 
 cd edugrant_agent 
 
